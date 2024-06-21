@@ -37,5 +37,8 @@ Implementation: Utilized GSAP to create animations for elements like navigation 
 Media Queries: Implemented to ensure that the application adapts gracefully to different screen sizes, maintaining both functionality and aesthetic appeal.
 Mobile-First Approach: Designed and tested initially for mobile devices, then progressively enhanced for larger screens.
 
+# Deployed Link
+https://two-good-wear-what-you-feel.vercel.app/
+
 # Made by
 ## Himanshu Mallick
